@@ -1,5 +1,4 @@
-Berikut **README.md** yang rapi, profesional, dan cocok untuk project kamu.
-Silakan langsung copy–paste ke repo GitHub kamu.
+
 
 ---
 
@@ -151,3 +150,4 @@ Kalau kamu mau, saya bisa:
 ✅ Tambahkan badge (build, license, flutter version, dll.)
 
 Mau ditambah apa?
+
