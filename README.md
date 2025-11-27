@@ -144,10 +144,3 @@ GitHub: [https://github.com/RzkyArsndy](https://github.com/RzkyArsndy)
 
 ---
 
-Kalau kamu mau, saya bisa:
-✅ Bikin versi Bahasa Inggris
-✅ Tambahkan screenshot / demo gif
-✅ Tambahkan badge (build, license, flutter version, dll.)
-
-Mau ditambah apa?
-
